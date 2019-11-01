@@ -1,5 +1,17 @@
 
 # Determining Success of Sitcoms Using NLP on Pilot Script Data
+
+The jupyter notebooks for this project can be viewed from the following links: 
+
+[Notebook 1](https://github.com/emilypfeifer/sitcoms/blob/master/1_sitcoms_clean.ipynb),
+[Notebook 2](https://github.com/emilypfeifer/sitcoms/blob/master/2_sitcoms_EDA.ipynb),
+[Notebook 3](https://github.com/emilypfeifer/sitcoms/blob/master/3_sitcoms_classification.ipynb),
+[Notebook 4](https://github.com/emilypfeifer/sitcoms/blob/master/4_sitcoms_deep_learning.ipynb)
+
+To view the interactive plots for Notebook 2, please use the NBviewer [here](https://nbviewer.jupyter.org/github/emilypfeifer/sitcoms/blob/master/2_sitcoms_EDA.ipynb#topic=0&lambda=1&term=)
+
+The blog post for this project can be viewed [here](https://pfeiferem.weebly.com/nlp-with-sitcom-script-data.html)
+
 ## The Data
 The data was compiled by me in October of 2019. The data includes roughly 50 sitcoms, half of which are "failed" and the half of which are "successful". The data also includes descriptive information about each sitcom such as the year it was released, number of episodes, etc., as well as a link to the script of the pilot episode of each show. 
 
